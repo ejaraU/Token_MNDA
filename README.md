@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Creación de TOKEN MONEDA MNDA
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Con este programa se puede crear un token ECR20 en la RED TESNET POLYGON MUMBAI.
