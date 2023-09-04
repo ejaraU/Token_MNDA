@@ -9,7 +9,7 @@ POLYGON_MUMBAI_URL=https://rpc-mumbai.maticvigil.com/
 PRIVATE_KEY=
 ```
 
-# Parámetros para configuración de Polygon Mumbai en Metamask
+# Configuración de Polygon Mumbai en Metamask
 
 - **Network Name:** Mumbai Testnet
     
