@@ -33,5 +33,12 @@ Para poder cargar con token en nuestra billetera para poder usar en el pago de t
 
 [Mumbai Faucet](https://mumbaifaucet.com/)
 
+## Ejecutar el proyecto
 
-
+Para ejecutar el proyecto se deben serguir los siguientes pasos:<br>
+```bash
+npm i -f
+```
+```
+npx hardhat run .\scripts\deploy.ts
+```
