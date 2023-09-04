@@ -39,6 +39,6 @@ Para ejecutar el proyecto se deben serguir los siguientes pasos:<br>
 ```bash
 npm i -f
 ```
-```
+```bash
 npx hardhat run .\scripts\deploy.ts
 ```
